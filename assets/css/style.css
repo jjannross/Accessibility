@@ -34,9 +34,6 @@ header nav {
 
 header nav ul li {
     list-style-type: none;
-}
-
-header div ul li {
     display: inline-block;
     margin-left: 25px;
 }

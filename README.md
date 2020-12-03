@@ -1,4 +1,4 @@
-# Accesibility-SEO
+# Accesibility
 
 Accesibility SEO is revised version of a website that allows the user to best find needed information due to it's increased search engine optimization. 
 
@@ -12,9 +12,9 @@ Before you begin, ensure you have met the following requirements:
 * You have a `<Windows/Linux/Mac>` machine. 
 
 
-## Installing <Accessibility-SEO>
+## Installing <Accessibility>
 
-To install <Accessibility-SEO>, follow these steps:
+To install <Accessibility>, follow these steps:
 
 Linux and macOS:
 ```
@@ -25,9 +25,9 @@ Windows:
 ```
 <install_command>
 ```
-## Using <Accessibility-SEO>
+## Using <Accessibility>
 
-To use <Accessibility-SEO>, follow these steps:
+To use <Accessibility>, follow these steps:
 
 ```
 <usage_example>
@@ -35,13 +35,13 @@ To use <Accessibility-SEO>, follow these steps:
 
 Add run commands and examples you think users will find useful. Provide an options reference for bonus points!
 
-## Contributing to <Accessibility-SEO>
-To contribute to <Accessibility-SEO>, follow these steps:
+## Contributing to <Accessibility>
+To contribute to <Accessibility>, follow these steps:
 
 1. Fork this repository.
 2. Create a branch: `git checkout -b <branch_name>`.
 3. Make your changes and commit them: `git commit -m '<commit_message>'`
-4. Push to the original branch: `git push origin <accessibility-seo>/<location>`
+4. Push to the original branch: `git push origin <accessibility>/<location>`
 5. Create the pull request.
 
 Alternatively see the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
